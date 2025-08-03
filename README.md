@@ -1,2 +1,2 @@
-#ICH-TMNet
-![替代文字](https://github.com/D-cx777/ICH-CMNet-main/blob/main/ICH-TMNet-main/Images/ICH-TMNet.png)
+#ICH-PFNet
+![替代文字](https://github.com/D-cx777/ICH-PFNet-main/blob/main/ICH-PFNet.png)
